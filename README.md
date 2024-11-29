@@ -10,5 +10,4 @@ Then, after you installed xampp, extract "src" folder contents to "htdocs" folde
 
 Go to localhost, and you should see RDD interface.
 
-
 Enjoy!
