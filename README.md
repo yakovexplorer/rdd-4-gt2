@@ -1,6 +1,9 @@
 # rdd-4-gt2
 Contains files for RDD (Roblox Deployment Downloader) to work on GT2. Requires PHP for proxy to work.
 
+# Why it needs a proxy?
+I will give a simple answer: CORS. By using proxy, we techincally "bypass" them and get a successful download.
+
 # Setup
 Download [xampp](https://www.apachefriends.org/download.html)
 
